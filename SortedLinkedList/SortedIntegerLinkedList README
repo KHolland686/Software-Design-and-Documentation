@@ -1,0 +1,10 @@
+# SortedIntegerLinkedList
+
+Takes a list of integers from user input. These are then stored and sorted in a Linked List.
+
+Use:
+  Compile using javac SortedIntegerLinkedList.java.
+  Run using java SortedIntegerLinkedList.
+
+    Enter integers one by one. Type quit to finish.
+    The program will display the sorted list.
