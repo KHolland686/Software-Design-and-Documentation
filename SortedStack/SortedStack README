@@ -1,0 +1,6 @@
+#Sorted Stack
+
+Takes a list of integers from user input and creates a Linked List containing those numbers sorted in ascending order.
+These elements are then pushed from the Linked List to a Stack, maintaining their order.
+Adapted from SortedLinkedList
+
